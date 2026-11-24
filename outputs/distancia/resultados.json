@@ -1,0 +1,221 @@
+{
+  "cenario": "pico",
+  "criterio": "km",
+  "entregadores": 2,
+  "entregas": 12,
+  "estrategias": {
+    "ordem_chegada": {
+      "km_total": 50.6,
+      "minutos_totais": 214.0,
+      "minutos_maior_rota": 116.0,
+      "rotas": [
+        {
+          "paradas": [
+            "N",
+            "H",
+            "B",
+            "E",
+            "D",
+            "C"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "F",
+            "K",
+            "L",
+            "M",
+            "N",
+            "I",
+            "H",
+            "C",
+            "B",
+            "G",
+            "F",
+            "E",
+            "F",
+            "A",
+            "B",
+            "C",
+            "D",
+            "C",
+            "B",
+            "A",
+            "BASE"
+          ],
+          "km": 26.6,
+          "minutos": 116.0
+        },
+        {
+          "paradas": [
+            "A",
+            "L",
+            "M",
+            "J",
+            "K",
+            "I"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "F",
+            "A",
+            "B",
+            "G",
+            "L",
+            "M",
+            "L",
+            "K",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "I",
+            "H",
+            "G",
+            "F",
+            "A",
+            "BASE"
+          ],
+          "km": 24.0,
+          "minutos": 98.0
+        }
+      ]
+    },
+    "mesmos_grupos_otimizados": {
+      "km_total": 31.0,
+      "minutos_totais": 136.0,
+      "minutos_maior_rota": 74.0,
+      "rotas": [
+        {
+          "paradas": [
+            "E",
+            "N",
+            "D",
+            "H",
+            "C",
+            "B"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "F",
+            "K",
+            "L",
+            "M",
+            "N",
+            "I",
+            "D",
+            "I",
+            "H",
+            "C",
+            "B",
+            "A",
+            "BASE"
+          ],
+          "km": 16.6,
+          "minutos": 74.0
+        },
+        {
+          "paradas": [
+            "J",
+            "K",
+            "L",
+            "M",
+            "I",
+            "A"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "I",
+            "H",
+            "G",
+            "B",
+            "A",
+            "BASE"
+          ],
+          "km": 14.4,
+          "minutos": 62.0
+        }
+      ]
+    },
+    "kmeans_otimizado": {
+      "km_total": 26.2,
+      "minutos_totais": 114.0,
+      "minutos_maior_rota": 74.0,
+      "rotas": [
+        {
+          "paradas": [
+            "M",
+            "N",
+            "D",
+            "I",
+            "H",
+            "C"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "F",
+            "K",
+            "L",
+            "M",
+            "N",
+            "I",
+            "D",
+            "I",
+            "H",
+            "C",
+            "B",
+            "A",
+            "BASE"
+          ],
+          "km": 16.6,
+          "minutos": 74.0
+        },
+        {
+          "paradas": [
+            "E",
+            "J",
+            "K",
+            "L",
+            "B",
+            "A"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "J",
+            "K",
+            "L",
+            "G",
+            "B",
+            "A",
+            "BASE"
+          ],
+          "km": 9.6,
+          "minutos": 40.0
+        }
+      ]
+    }
+  },
+  "buscas": {
+    "astar": {
+      "pares": 156,
+      "expansoes": 841,
+      "mediana_ms": 1.016
+    },
+    "dijkstra": {
+      "pares": 156,
+      "expansoes": 1381,
+      "mediana_ms": 1.196
+    }
+  }
+}

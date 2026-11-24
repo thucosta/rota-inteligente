@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" font-family="system-ui,sans-serif" fill="#0f172a"><title>Grafo das rotas agrupadas</title>
+<rect width="800" height="480" fill="#f8fafc"/>
+<text x="40" y="46" font-size="26" font-weight="700">Rede de entregas da Sabor Express</text>
+<text x="40" y="73" font-size="15">Cinza = rua disponível · seta = sentido único · números = entregadores</text>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#475569"/></marker></defs>
+<path d="M227.5,110.0 L375.0,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M227.5,110.0 L80.0,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M227.5,110.0 L227.5,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,110.0 L227.5,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,110.0 L522.5,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,110.0 L375.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M80.0,110.0 L80.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M522.5,110.0 L375.0,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M522.5,110.0 L670.0,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M522.5,110.0 L522.5,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M670.0,110.0 L522.5,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M670.0,110.0 L670.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M80.0,257.5 L80.0,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M80.0,257.5 L227.5,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M80.0,257.5 L80.0,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M227.5,257.5 L227.5,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M227.5,257.5 L80.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M227.5,257.5 L227.5,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,257.5 L375.0,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,257.5 L227.5,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,257.5 L522.5,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,257.5 L375.0,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M522.5,257.5 L522.5,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M522.5,257.5 L375.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M522.5,257.5 L670.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M670.0,257.5 L670.0,110.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M670.0,257.5 L522.5,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M670.0,257.5 L670.0,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M80.0,405.0 L80.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M80.0,405.0 L227.5,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M227.5,405.0 L227.5,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M227.5,405.0 L80.0,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M227.5,405.0 L375.0,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,405.0 L375.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,405.0 L227.5,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M375.0,405.0 L522.5,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M522.5,405.0 L375.0,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M522.5,405.0 L670.0,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M670.0,405.0 L670.0,257.5" stroke="#94a3b8" stroke-width="2"/>
+<path d="M670.0,405.0 L522.5,405.0" stroke="#94a3b8" stroke-width="2"/>
+<path d="M82.5,110.0 L82.5,257.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M80.0,255.0 L227.5,255.0" stroke="#0369a1" stroke-width="4"/>
+<path d="M230.0,257.5 L230.0,405.0" stroke="#0369a1" stroke-width="4"/>
+<path d="M227.5,402.5 L375.0,402.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M375.0,402.5 L522.5,402.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M522.5,402.5 L670.0,402.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M672.5,405.0 L672.5,257.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M672.5,257.5 L672.5,110.0" stroke="#0369a1" stroke-width="4"/>
+<path d="M672.5,110.0 L672.5,257.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M670.0,255.0 L522.5,255.0" stroke="#0369a1" stroke-width="4"/>
+<path d="M525.0,257.5 L525.0,110.0" stroke="#0369a1" stroke-width="4"/>
+<path d="M522.5,107.5 L375.0,107.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M375.0,107.5 L227.5,107.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M227.5,112.5 L80.0,112.5" stroke="#0369a1" stroke-width="4"/>
+<path d="M77.5,110.0 L77.5,257.5" stroke="#b45309" stroke-width="4"/>
+<path d="M77.5,257.5 L77.5,405.0" stroke="#b45309" stroke-width="4"/>
+<path d="M80.0,407.5 L227.5,407.5" stroke="#b45309" stroke-width="4"/>
+<path d="M227.5,407.5 L375.0,407.5" stroke="#b45309" stroke-width="4"/>
+<path d="M372.5,405.0 L372.5,257.5" stroke="#b45309" stroke-width="4"/>
+<path d="M372.5,257.5 L372.5,110.0" stroke="#b45309" stroke-width="4"/>
+<path d="M375.0,112.5 L227.5,112.5" stroke="#b45309" stroke-width="4"/>
+<path d="M227.5,107.5 L80.0,107.5" stroke="#b45309" stroke-width="4"/>
+<path d="M153.75,110.0 L131.625,110.0" stroke="#475569" marker-end="url(#arrow)"/>
+<path d="M301.25,257.5 L279.125,257.5" stroke="#475569" marker-end="url(#arrow)"/>
+<circle cx="80.0" cy="110.0" r="11" fill="#334155"/>
+<text x="94.0" y="98.0" font-size="14">BASE</text>
+<circle cx="227.5" cy="110.0" r="11" fill="#b45309"/>
+<text x="227.5" y="114.0" text-anchor="middle" font-size="11" fill="white">2</text>
+<text x="241.5" y="98.0" font-size="14">A</text>
+<circle cx="375.0" cy="110.0" r="11" fill="#b45309"/>
+<text x="375.0" y="114.0" text-anchor="middle" font-size="11" fill="white">2</text>
+<text x="389.0" y="98.0" font-size="14">B</text>
+<circle cx="522.5" cy="110.0" r="11" fill="#0369a1"/>
+<text x="522.5" y="114.0" text-anchor="middle" font-size="11" fill="white">1</text>
+<text x="536.5" y="98.0" font-size="14">C</text>
+<circle cx="670.0" cy="110.0" r="11" fill="#0369a1"/>
+<text x="670.0" y="114.0" text-anchor="middle" font-size="11" fill="white">1</text>
+<text x="684.0" y="98.0" font-size="14">D</text>
+<circle cx="80.0" cy="257.5" r="11" fill="#b45309"/>
+<text x="80.0" y="261.5" text-anchor="middle" font-size="11" fill="white">2</text>
+<text x="94.0" y="245.5" font-size="14">E</text>
+<circle cx="227.5" cy="257.5" r="5" fill="#334155"/>
+<text x="241.5" y="245.5" font-size="14">F</text>
+<circle cx="375.0" cy="257.5" r="5" fill="#334155"/>
+<text x="389.0" y="245.5" font-size="14">G</text>
+<circle cx="522.5" cy="257.5" r="11" fill="#0369a1"/>
+<text x="522.5" y="261.5" text-anchor="middle" font-size="11" fill="white">1</text>
+<text x="536.5" y="245.5" font-size="14">H</text>
+<circle cx="670.0" cy="257.5" r="11" fill="#0369a1"/>
+<text x="670.0" y="261.5" text-anchor="middle" font-size="11" fill="white">1</text>
+<text x="684.0" y="245.5" font-size="14">I</text>
+<circle cx="80.0" cy="405.0" r="11" fill="#b45309"/>
+<text x="80.0" y="409.0" text-anchor="middle" font-size="11" fill="white">2</text>
+<text x="94.0" y="393.0" font-size="14">J</text>
+<circle cx="227.5" cy="405.0" r="11" fill="#b45309"/>
+<text x="227.5" y="409.0" text-anchor="middle" font-size="11" fill="white">2</text>
+<text x="241.5" y="393.0" font-size="14">K</text>
+<circle cx="375.0" cy="405.0" r="11" fill="#b45309"/>
+<text x="375.0" y="409.0" text-anchor="middle" font-size="11" fill="white">2</text>
+<text x="389.0" y="393.0" font-size="14">L</text>
+<circle cx="522.5" cy="405.0" r="11" fill="#0369a1"/>
+<text x="522.5" y="409.0" text-anchor="middle" font-size="11" fill="white">1</text>
+<text x="536.5" y="393.0" font-size="14">M</text>
+<circle cx="670.0" cy="405.0" r="11" fill="#0369a1"/>
+<text x="670.0" y="409.0" text-anchor="middle" font-size="11" fill="white">1</text>
+<text x="684.0" y="393.0" font-size="14">N</text>
+</svg>

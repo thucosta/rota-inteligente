@@ -1,0 +1,163 @@
+{
+  "cenario": "normal",
+  "criterio": "minutes",
+  "entregadores": 2,
+  "entregas": 4,
+  "estrategias": {
+    "ordem_chegada": {
+      "km_total": 21.4,
+      "minutos_totais": 88.0,
+      "minutos_maior_rota": 46.0,
+      "rotas": [
+        {
+          "paradas": [
+            "C",
+            "A"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "F",
+            "A",
+            "B",
+            "C",
+            "B",
+            "A",
+            "BASE"
+          ],
+          "km": 9.6,
+          "minutos": 42.0
+        },
+        {
+          "paradas": [
+            "K",
+            "M"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "J",
+            "K",
+            "L",
+            "M",
+            "L",
+            "G",
+            "F",
+            "A",
+            "BASE"
+          ],
+          "km": 11.8,
+          "minutos": 46.0
+        }
+      ]
+    },
+    "mesmos_grupos_otimizados": {
+      "km_total": 21.4,
+      "minutos_totais": 88.0,
+      "minutos_maior_rota": 46.0,
+      "rotas": [
+        {
+          "paradas": [
+            "A",
+            "C"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "F",
+            "A",
+            "B",
+            "C",
+            "B",
+            "A",
+            "BASE"
+          ],
+          "km": 9.6,
+          "minutos": 42.0
+        },
+        {
+          "paradas": [
+            "K",
+            "M"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "J",
+            "K",
+            "L",
+            "M",
+            "L",
+            "G",
+            "F",
+            "A",
+            "BASE"
+          ],
+          "km": 11.8,
+          "minutos": 46.0
+        }
+      ]
+    },
+    "kmeans_otimizado": {
+      "km_total": 23.6,
+      "minutos_totais": 98.0,
+      "minutos_maior_rota": 52.0,
+      "rotas": [
+        {
+          "paradas": [
+            "K",
+            "A",
+            "C"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "J",
+            "K",
+            "F",
+            "A",
+            "B",
+            "C",
+            "B",
+            "A",
+            "BASE"
+          ],
+          "km": 11.8,
+          "minutos": 52.0
+        },
+        {
+          "paradas": [
+            "M"
+          ],
+          "caminho": [
+            "BASE",
+            "E",
+            "J",
+            "K",
+            "L",
+            "M",
+            "L",
+            "G",
+            "F",
+            "A",
+            "BASE"
+          ],
+          "km": 11.8,
+          "minutos": 46.0
+        }
+      ]
+    }
+  },
+  "buscas": {
+    "astar": {
+      "pares": 20,
+      "expansoes": 123,
+      "mediana_ms": 0.135
+    },
+    "dijkstra": {
+      "pares": 20,
+      "expansoes": 181,
+      "mediana_ms": 0.151
+    }
+  }
+}
